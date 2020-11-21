@@ -1,0 +1,7 @@
+#我是注释
+
+# 忽略readme.md
+readme.md
+
+# 忽略 .txt文件
+*.txt
